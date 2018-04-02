@@ -1,0 +1,33 @@
+.inputs {
+    width:90px;
+}
+
+#rangebutt {
+    background-color:silver;
+    color:blue;
+}
+
+#numbutt {
+    background-color:black;
+    color:white;
+}
+
+#randombutt {
+    background-color:#FFF;
+    color:black;
+}
+
+#plusbutt {
+    background-color:lightblue;
+    font-size:large;
+}
+
+#autobutt {
+    background-color:lightgreen;
+    color:blue;
+}
+
+#stopbutt {
+    background-color:red;
+    color:black;
+}
